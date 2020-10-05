@@ -1,0 +1,11 @@
+2020-10-03 12:48:48.387  INFO 16216 --- [main] c.example.demo02.Demo02ApplicationTests  : Starting Demo02ApplicationTests on DESKTOP-ILBALSI with PID 16216 (started by gd_ch in C:\Users\gd_ch\Desktop\springboot\demo02)
+2020-10-03 12:48:48.389 DEBUG 16216 --- [main] c.example.demo02.Demo02ApplicationTests  : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-03 12:48:48.393  INFO 16216 --- [main] c.example.demo02.Demo02ApplicationTests  : No active profile set, falling back to default profiles: default
+2020-10-03 12:48:50.869  INFO 16216 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-03 12:48:51.551  INFO 16216 --- [main] c.example.demo02.Demo02ApplicationTests  : Started Demo02ApplicationTests in 3.922 seconds (JVM running for 5.901)
+2020-10-03 12:48:51.851 TRACE 16216 --- [main] c.example.demo02.Demo02ApplicationTests  : 这是trace日志
+2020-10-03 12:48:51.851 DEBUG 16216 --- [main] c.example.demo02.Demo02ApplicationTests  : debug日志
+2020-10-03 12:48:51.852  INFO 16216 --- [main] c.example.demo02.Demo02ApplicationTests  : info
+2020-10-03 12:48:51.852  WARN 16216 --- [main] c.example.demo02.Demo02ApplicationTests  : warn
+2020-10-03 12:48:51.852 ERROR 16216 --- [main] c.example.demo02.Demo02ApplicationTests  : error日志
+2020-10-03 12:48:51.875  INFO 16216 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
